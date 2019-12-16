@@ -1,0 +1,15 @@
+.form {
+	background-color: #efefef;
+	width: 400px;
+	height: 150px;
+	border-radius: 7px;
+	padding: 20px;
+}
+ .form1{
+	background-color: #efefef;
+	width: 400px;
+	height: 150px;
+	border-radius: 7px;
+	padding: 20px;
+	float:right;
+} 
